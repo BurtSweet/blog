@@ -2,7 +2,7 @@ export default {
   title: "BurtSweet", // 网站标题
   nickName: "BurtSweet", // 昵称
   githubName: "BurtSweet", // github账户名
-  githubRepo: "nuxt3-blog", // 勿修改
+  githubRepo: "blog", // 勿修改
   githubBranch: "master", // 勿修改
   domain: "https://blog.yanjun.eu.org/", // rss域名
   SEO_title: " - BurtSweet blog",
