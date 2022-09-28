@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "title": "悟空传",
+    "summary": "我要这天再遮不住我眼 我要这地再埋不了我心.\\n到头来也只是一只猴子!🐒\\n\\n",
+    "link": "https://book.douban.com/subject/6431994",
+    "cover": "https://cdn.jsdelivr.net/gh/BurtSweet/CDN/pic/%E6%82%9F%E7%A9%BA%E4%BC%A0.jpeg",
+    "type": "book",
+    "id": 8126,
+    "time": 1664399091337,
+    "modifyTime": 1664399091337,
+    "encrypt": false
+  }
+]
