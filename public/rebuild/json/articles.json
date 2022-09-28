@@ -1,5 +1,68 @@
 [
   {
+    "title": "VPS常用",
+    "menu": [
+      {
+        "size": "big",
+        "text": "工具箱（内网穿透，一键安装 docker）：",
+        "url": "#id-%E5%B7%A5%E5%85%B7%E7%AE%B1%EF%BC%88%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%EF%BC%8C%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85docker%EF%BC%89%EF%BC%9A"
+      },
+      {
+        "size": "big",
+        "text": "x-ui 面板：",
+        "url": "#id-x-ui%E9%9D%A2%E6%9D%BF%EF%BC%9A"
+      },
+      {
+        "size": "big",
+        "text": "linuxtool：https://github.com/fscarmen/tools",
+        "url": "#id-linuxtool%EF%BC%9Ahttps%3A%2F%2Fgithub.com%2Ffscarmen%2Ftools"
+      },
+      {
+        "size": "big",
+        "text": "宝塔面板安装：",
+        "url": "#id-%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E5%AE%89%E8%A3%85%EF%BC%9A"
+      },
+      {
+        "size": "big",
+        "text": "宝塔面板卸载：",
+        "url": "#id-%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E5%8D%B8%E8%BD%BD%EF%BC%9A"
+      },
+      {
+        "size": "big",
+        "text": "查看内存",
+        "url": "#id-%E6%9F%A5%E7%9C%8B%E5%86%85%E5%AD%98"
+      },
+      {
+        "size": "big",
+        "text": "查看 cpu 信息",
+        "url": "#id-%E6%9F%A5%E7%9C%8Bcpu%E4%BF%A1%E6%81%AF"
+      },
+      {
+        "size": "big",
+        "text": "磁盘信息",
+        "url": "#id-%E7%A3%81%E7%9B%98%E4%BF%A1%E6%81%AF"
+      },
+      {
+        "size": "big",
+        "text": "网络信息",
+        "url": "#id-%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF"
+      },
+      {
+        "size": "small",
+        "text": "防火墙",
+        "url": "#id-%E9%98%B2%E7%81%AB%E5%A2%99"
+      }
+    ],
+    "len": 2805,
+    "tags": [
+      "vps"
+    ],
+    "id": 3455,
+    "time": 1664401192063,
+    "modifyTime": 1664401192063,
+    "encrypt": false
+  },
+  {
     "title": "linux准备工作",
     "menu": [
       {
