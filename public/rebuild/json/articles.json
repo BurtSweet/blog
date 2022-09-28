@@ -1,5 +1,28 @@
 [
   {
+    "title": "linux准备工作",
+    "menu": [
+      {
+        "size": "big",
+        "text": "安装 yum",
+        "url": "#id-%E5%AE%89%E8%A3%85yum"
+      },
+      {
+        "size": "big",
+        "text": "安装 node",
+        "url": "#id-%E5%AE%89%E8%A3%85%20node"
+      }
+    ],
+    "len": 4457,
+    "tags": [
+      "linux"
+    ],
+    "id": 7190,
+    "time": 1664400913096,
+    "modifyTime": 1664400913096,
+    "encrypt": false
+  },
+  {
     "title": "markdown引入媒体",
     "menu": [],
     "len": 908,
