@@ -96,22 +96,17 @@
     "menu": [
       {
         "size": "big",
-        "text": "安装 yum",
-        "url": "#id-%E5%AE%89%E8%A3%85yum"
-      },
-      {
-        "size": "big",
-        "text": "安装 node",
-        "url": "#id-%E5%AE%89%E8%A3%85%20node"
+        "text": "更新软件源",
+        "url": "#id-%E6%9B%B4%E6%96%B0%E8%BD%AF%E4%BB%B6%E6%BA%90"
       }
     ],
-    "len": 4457,
+    "len": 4345,
     "tags": [
       "linux"
     ],
     "id": 7190,
     "time": 1664400913096,
-    "modifyTime": 1664400913096,
+    "modifyTime": 1665179441517,
     "encrypt": false
   },
   {
