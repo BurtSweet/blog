@@ -39,15 +39,20 @@
         "size": "big",
         "text": "取消脚本所有权限",
         "url": "#id-%E5%8F%96%E6%B6%88%E8%84%9A%E6%9C%AC%E6%89%80%E6%9C%89%E6%9D%83%E9%99%90"
+      },
+      {
+        "size": "big",
+        "text": "宝塔 7.7 去登录弹窗版：",
+        "url": "#id-%E5%AE%9D%E5%A1%947.7%E5%8E%BB%E7%99%BB%E5%BD%95%E5%BC%B9%E7%AA%97%E7%89%88%EF%BC%9A"
       }
     ],
-    "len": 464,
+    "len": 779,
     "tags": [
       "vps"
     ],
     "id": 7397,
     "time": 1666817807323,
-    "modifyTime": 1666818097094,
+    "modifyTime": 1666953007767,
     "encrypt": false
   },
   {
