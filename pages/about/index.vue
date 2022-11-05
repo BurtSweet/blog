@@ -7,11 +7,7 @@ const commitUrl = computed(() => `https://github.com/${config.githubName}/${conf
 const buildTime = ref<string>("Unknown");
 
 const paragraphs = [
-  "幽深宇宙已岁逾百亿，惟闪烁星光点缀生机",
-  "我常仰望浩瀚天际，思念在同一颗星球的你",
-  "想，那转瞬的迷人流星，也许就是你的回眸",
-  "光坠之地，吾之忧祈",
-  "——2021.12.4"
+  "致我已经逝去的,亲爱的达瓦里氏!"
 ];
 
 onBeforeMount(async () => {
