@@ -121,6 +121,11 @@
       },
       {
         "size": "big",
+        "text": "宝塔面板官方 -> 纯净版",
+        "url": "#id-%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E5%AE%98%E6%96%B9-%3E%E7%BA%AF%E5%87%80%E7%89%88"
+      },
+      {
+        "size": "big",
         "text": "宝塔面板去广告 7.9:",
         "url": "#id-%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E5%8E%BB%E5%B9%BF%E5%91%8A7.9%3A"
       },
@@ -160,13 +165,13 @@
         "url": "#id-%E6%9F%A5%E7%9C%8B%E7%AB%AF%E5%8F%A3%E5%8D%A0%E7%94%A8"
       }
     ],
-    "len": 3257,
+    "len": 3476,
     "tags": [
       "vps"
     ],
     "id": 3455,
     "time": 1664401192063,
-    "modifyTime": 1669239913804,
+    "modifyTime": 1669240151936,
     "encrypt": false,
     "_show": true
   },
