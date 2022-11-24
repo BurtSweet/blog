@@ -163,15 +163,20 @@
         "size": "big",
         "text": "查看端口占用",
         "url": "#id-%E6%9F%A5%E7%9C%8B%E7%AB%AF%E5%8F%A3%E5%8D%A0%E7%94%A8"
+      },
+      {
+        "size": "big",
+        "text": "配置开机执行",
+        "url": "#id-%E9%85%8D%E7%BD%AE%E5%BC%80%E6%9C%BA%E6%89%A7%E8%A1%8C"
       }
     ],
-    "len": 3476,
+    "len": 3515,
     "tags": [
       "vps"
     ],
     "id": 3455,
     "time": 1664401192063,
-    "modifyTime": 1669240151936,
+    "modifyTime": 1669328080332,
     "encrypt": false,
     "_show": true
   },
