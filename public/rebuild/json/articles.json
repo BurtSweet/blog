@@ -126,8 +126,18 @@
       },
       {
         "size": "big",
+        "text": "宝塔 7.7 去登录弹窗版 (推荐)：",
+        "url": "#id-%E5%AE%9D%E5%A1%947.7%E5%8E%BB%E7%99%BB%E5%BD%95%E5%BC%B9%E7%AA%97%E7%89%88(%E6%8E%A8%E8%8D%90)%EF%BC%9A"
+      },
+      {
+        "size": "big",
         "text": "宝塔面板去广告 7.9:",
         "url": "#id-%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E5%8E%BB%E5%B9%BF%E5%91%8A7.9%3A"
+      },
+      {
+        "size": "small",
+        "text": "宝塔面板防后门",
+        "url": "#id-%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E9%98%B2%E5%90%8E%E9%97%A8"
       },
       {
         "size": "big",
@@ -170,13 +180,13 @@
         "url": "#id-%E9%85%8D%E7%BD%AE%E5%BC%80%E6%9C%BA%E6%89%A7%E8%A1%8C"
       }
     ],
-    "len": 3515,
+    "len": 4387,
     "tags": [
       "vps"
     ],
     "id": 3455,
     "time": 1664401192063,
-    "modifyTime": 1669328080332,
+    "modifyTime": 1669415094226,
     "encrypt": false,
     "_show": true
   },
