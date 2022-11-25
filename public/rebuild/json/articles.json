@@ -25,7 +25,8 @@
     "id": 6039,
     "time": 1667494804316,
     "modifyTime": 1669389199395,
-    "encrypt": false
+    "encrypt": false,
+    "_show": true
   },
   {
     "title": "Alist Docker版本安装",
@@ -38,50 +39,8 @@
     "id": 6968,
     "time": 1666903248874,
     "modifyTime": 1666903248874,
-    "encrypt": false
-  },
-  {
-    "title": "宝塔面板防后门",
-    "menu": [
-      {
-        "size": "big",
-        "text": "将脚本文件清空",
-        "url": "#id-%E5%B0%86%E8%84%9A%E6%9C%AC%E6%96%87%E4%BB%B6%E6%B8%85%E7%A9%BA"
-      },
-      {
-        "size": "big",
-        "text": "脚本文件添加写保护，防止内容被写回（即使是 root，不取消保护也无法写入）",
-        "url": "#id-%E8%84%9A%E6%9C%AC%E6%96%87%E4%BB%B6%E6%B7%BB%E5%8A%A0%E5%86%99%E4%BF%9D%E6%8A%A4%EF%BC%8C%E9%98%B2%E6%AD%A2%E5%86%85%E5%AE%B9%E8%A2%AB%E5%86%99%E5%9B%9E%EF%BC%88%E5%8D%B3%E4%BD%BF%E6%98%AFroot%EF%BC%8C%E4%B8%8D%E5%8F%96%E6%B6%88%E4%BF%9D%E6%8A%A4%E4%B9%9F%E6%97%A0%E6%B3%95%E5%86%99%E5%85%A5%EF%BC%89"
-      },
-      {
-        "size": "big",
-        "text": "清空所有统计日志",
-        "url": "#id-%E6%B8%85%E7%A9%BA%E6%89%80%E6%9C%89%E7%BB%9F%E8%AE%A1%E6%97%A5%E5%BF%97"
-      },
-      {
-        "size": "big",
-        "text": "为 request 文件夹添加写保护，防止内容写入",
-        "url": "#id-%E4%B8%BArequest%E6%96%87%E4%BB%B6%E5%A4%B9%E6%B7%BB%E5%8A%A0%E5%86%99%E4%BF%9D%E6%8A%A4%EF%BC%8C%E9%98%B2%E6%AD%A2%E5%86%85%E5%AE%B9%E5%86%99%E5%85%A5"
-      },
-      {
-        "size": "big",
-        "text": "取消脚本所有权限",
-        "url": "#id-%E5%8F%96%E6%B6%88%E8%84%9A%E6%9C%AC%E6%89%80%E6%9C%89%E6%9D%83%E9%99%90"
-      },
-      {
-        "size": "big",
-        "text": "宝塔 7.7 去登录弹窗版：",
-        "url": "#id-%E5%AE%9D%E5%A1%947.7%E5%8E%BB%E7%99%BB%E5%BD%95%E5%BC%B9%E7%AA%97%E7%89%88%EF%BC%9A"
-      }
-    ],
-    "len": 779,
-    "tags": [
-      "vps"
-    ],
-    "id": 7397,
-    "time": 1666817807323,
-    "modifyTime": 1666953007767,
-    "encrypt": false
+    "encrypt": false,
+    "_show": true
   },
   {
     "title": "翟山鹰-赚钱的基本道理和逻辑",
